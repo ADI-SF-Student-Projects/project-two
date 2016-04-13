@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Oakland Up &amp;amp; Down</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_list2">List2Activity</string>
+    <string name="title_activity_detail2">Detail2Activity</string>
+    <string name="search_hint">  Search for restaurants, things to do, etc.</string>
+    <string name="main_prompt">Where do you want to go today?</string>
+
+    <string name="restaurant_type">Restaurant</string>
+    <string name="bar_type">Bar</string>
+    <string name="sightseeing_type">Sightseeing</string>
+    <string name="things_to_do_type">Things To Do</string>
+    <string name="music_venue_type">Music Venue</string>
+    <string name="movie_theatre_type">Movie Theatre</string>
+
+    <string name="mexican_subtype">Mexican</string>
+    <string name="american_subtype">American</string>
+    <string name="dive_subtype">Dive</string>
+    <string name="concert_theatre_subtype">Concert Theatre</string>
+    <string name="second_run_subtype">Second Run</string>
+    <string name="architecture_subtype">Architecture</string>
+    <string name="climbing_gym_subtype">Climbing Gym</string>
+    <string name="italian_subtype">Italian</string>
+    <string name="ice_arena_subtype">Ice Arena</string>
+    <string name="belgian_subtype">Belgian</string>
+
+    <string name="cosecha_address">907 Washington St, \nOakland, CA 94607</string>
+    <string name="hopscotch_address">1915 San Pablo Ave, \nOakland, CA 94612</string>
+    <string name="fox_address">1807 Telegraph Ave, \nOakland, CA 94612</string>
+    <string name="cvk_address">1621 Telegraph Ave, \nOakland, CA 94612</string>
+    <string name="new_parkway_address">474 24th St, \nOakland, CA 94612</string>
+    <string name="cathedral_building_address">1615 Broadway, \nOakland, CA, 94612</string>
+    <string name="gwpc_address">520 20th St, \nOakland, CA 94612</string>
+    <string name="bellanico_address">4238 Park Blvd, \nOakland, CA 94602</string>
+    <string name="ice_arena_address">519 18th St, Oakland, CA 94612</string>
+    <string name="trappist_address">460 8th St, Oakland, CA 94607</string>
+
+    <string name="$_price">$</string>
+    <string name="$$_price">$$</string>
+    <string name="$$$_price">$$$</string>
+    <string name="$$$$_price">$$$$</string>
+
+    <string name="cosecha_description">Chef-grade tacos.</string>
+    <string name="hopscotch_description">Upscale, retro diner serving craft cocktails &amp; inventive American fare with a Japanese touch.</string>
+    <string name="cvk_description">Hip watering hole offering craft cocktails &amp; live music in digs packed with funky art &amp; knickknacks.</string>
+    <string name="fox_description">Live music venue in a historic building housing an art school, bar, restaurant &amp; courtyard.</string>
+    <string name="new_parkway_description">Unique movie theater with comfy couches &amp; a cafe serving American diner fare, plus beer &amp; wine.</string>
+    <string name="cathedral_building_description">The Cathedral Building, originally named the Federal Realty Building, was the first Gothic Revival style skyscraper west of the Mississippi River.</string>
+    <string name="gwpc_description">Housed in an old power building, this rock-climbing gym has many walls, including an old smokestack.</string>
+    <string name="bellanico_description">Housemade pasta, tasting menus &amp; wine flights are offered at this smart Italian trattoria.</string>
+    <string name="ice_arena_description">2-rink indoor ice facility offers public skate sessions, figure skating lessons &amp; hockey leagues.</string>
+    <string name="trappist_description">Belgian &amp; specialty beer, plus meat &amp; cheese plates, in a snug space in an 1870s Victorian building.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

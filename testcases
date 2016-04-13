@@ -1,0 +1,60 @@
+Main Activity Search Test Case
+
+1. User is able to immediately search for locations from within the main activity without having to
+navigate to an additional activity.
+2. Search button is easily visible.
+3. User is given a hint to make them aware of what they can search for.
+
+Search Results Activity Search Test Case
+
+1. After the user's first search, a search button is visible in the app's menu to cue the user to
+perform additional searches if necessary.
+
+Invalid Search Test Case
+
+1. User is unable to proceed to search results if no query is typed into search field.
+2. Toast is displayed asking user to type something into search field
+
+Search by Location Name Test Case
+
+1. When user types name of location into search field, matching locations appear in the search
+results activity.
+
+Search by Location Type Test Case
+
+1. When user types the type of location that they're looking for into search field, matching locations
+appear in the search results activity.
+
+Search by Location SubType Test Case
+
+1. When user types the subtype of location that they're looking for into search field, matching locations
+appear in the search results activity.
+
+Search by Location Price Test Case
+
+1. When user types the price that they're looking for into the search field (using the familiar '$' to '$$$$'
+range), matching locations appear in the search results activity.
+
+View Location Details Test Case
+
+1. When a location in the search results is clicked, user is taken to another activity with more details
+about that location
+2. Location name is visible
+3. Location address is visible
+4. Location phone # is visible
+5. Location price is visible
+6. Location description is visible
+6. Photo of location is visible
+
+Add to Favorites Test Case
+
+1. When user clicks the favorite button from within the Detail Activity, the favorite button's
+appearance changes to an "on" position
+2. The user's new favorite location appears in the user's favorites list
+
+View Favorites Test Case
+
+1. User is able to easily locate a favorite places button in the app's menu
+2. When user clicks favorite place menu button, they're taken to a new activity that displays all
+of their favorites
+3. User is able to click on favorite places to see more details about each favorite location.
